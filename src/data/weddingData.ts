@@ -11,7 +11,7 @@ export const weddingData = {
     isoDate: '2026-11-20T10:30:00+05:30',
     date: 'November 20, 2026',
     dateTe: 'నవంబర్ 20, 2026, శుక్రవారం',
-    time: '10:30 AM onwards',
+    time: '10:57 AM onwards',
     timeTe: 'ఉదయం 10:30 గంటల నుండి',
     venue: 'MS Function Hall',
     location: 'Near Singur X Road, Hyderabad',
