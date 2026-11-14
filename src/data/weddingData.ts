@@ -17,6 +17,7 @@ export const weddingData = {
     location: 'Near Singur X Road, Hyderabad',
     locationTe: 'సింగూర్ X రోడ్ సమీపంలో, హైదరాబాద్',
     mapUrl: 'https://maps.app.goo.gl/YtRyE4sMZRyERymq9?g_st=aw', // Verified Google Maps link supplied by the couple.
+    groomLocUrl:'https://maps.app.goo.gl/iBLv1i7XixDRsWGLA?g_st=aw' 
   },
   events: [
     { id: 'haldi', date: 'November 18, 2026', dateTe: 'నవంబర్ 18, 2026', time: '6:00 PM', timeTe: 'సాయంత్రం 6:00 గంటలకు', venue: "Near Groom's Home", venueTe: 'వరుని నివాసం', image: '/assets/haldi-reference.jpg', imageTe: '/images/haldi.jpg' },
